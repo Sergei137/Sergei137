@@ -1,6 +1,6 @@
-### Hi there, my name is Sergei 👋
+## Hi there, my name is Sergei 👋
 
-# I am a software developer in search of an exciting challenge
+### I am a software developer in search of an exciting challenge
 
 <!--
 **Sergei137/Sergei137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
