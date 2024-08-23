@@ -1,6 +1,6 @@
 ## Hi there, my name is Sergei 👋
 
-I am an aspiring software developer in search of an exciting challenge.
+I am software developer in search of an exciting challenge.
 
 
 
